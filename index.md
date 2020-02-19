@@ -1,0 +1,18 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<title>CortezJEL's UNC0VER INSTALLER</title>
+<style type="text/css">
+body {background:#fff;margin:0;padding:0;font-family:arial,helvetica,sans-serif;text-align:center;padding:10px;color:#333;font-size:16px;}
+#container {width:300px;margin:0 auto;}
+h1 {margin:0;padding:0;font-size:14px;}
+p {font-size:13px;}
+.link {background:#ecf5ff;border-top:1px solid #fff;border:1px solid #dfebf8;margin-top:.5em;padding:.3em;}
+.link a {text-decoration:none;font-size:15px;display:block;color:#069;}
+</style>
+<body >
+<font size="8">www.reddit.com/u/CortezJEL</font>
+</br></br>
+</br></br>
+<button class="btn btn-success" onclick="window.open('itms-services://?action=download-manifest&url=https://github.com/CortezJEL/UNC0VER/raw/master/install.plist');">Click To Install UNC0VER 4.0.2</button>
+</body>
+</html>
